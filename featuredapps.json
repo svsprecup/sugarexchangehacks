@@ -1,0 +1,1232 @@
+{ 
+"content": {
+        "featured_apps": [
+            {
+                "id": 33,
+                "name": "Collabspot for Gmail",
+                "excerpt": "Integrate Gmail with SugarCRM",
+                "description": "Collabspot is a sales email platform that integrates SugarCRM with Gmail.",
+                "slug": "collabspot-for-gmail",
+                "type": "Integration",
+                "status": "published",
+                "published_at": "2017-04-12 09:17:30",
+                "menu_order": 0,
+                "search_boost": 90,
+                "product_link": "",
+                "action_link": "http:\/\/www.collabspot.com\/sugarcrm7\/",
+                "price_type": null,
+                "price": null,
+                "legal_privacy_link": "http:\/\/www.collabspot.com\/privacy-policy\/",
+                "legal_privacy_tc": "http:\/\/www.collabspot.com\/terms-of-service\/",
+                "img_listing_logo": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/26\/33\/collabspot-for-gmail-img2642147177080482350.png",
+                "img_listing_profile": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/26\/33\/collabspot-for-gmail-img3480397518772160952.png",
+                "img_listing_overview": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/26\/33\/collabspot-for-gmail-img8221281433734354061.png",
+                "screenshots": null,
+                "video_link": null,
+                "support_phone": null,
+                "support_email": null,
+                "support_kb": null,
+                "support_detail": null,
+                "etc_class": "NA",
+                "parent_id": null,
+                "owner_id": null,
+                "account_id": 26,
+                "created_at": "2017-04-11 21:37:27",
+                "updated_at": "2017-04-11 21:37:31",
+                "deleted_at": null,
+                "route": "http:\/\/sugarexchange.sugarcrm.com\/apps\/33\/collabspot-for-gmail",
+                "meta_data": {
+                    "payload": {
+                        "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/90132",
+                        "uuid": "2fceb636-f9c9-42b7-ba26-e38603ca1c2a",
+                        "publishedApp": null,
+                        "workingApp": {
+                            "id": "21575",
+                            "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/21575"
+                        },
+                        "name": "Collabspot for Gmail",
+                        "type": "WEB_APP",
+                        "provider": {
+                            "uuid": "46d114d7-6c78-4d1c-a89b-b5978a664208",
+                            "name": "Collabspot",
+                            "url": "collabspot.com"
+                        },
+                        "listing": {
+                            "myAppLogoIconUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/myAppIcon\/img2642147177080482350.png",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/thumbs_64\/img2642147177080482350.png",
+                            "profileImageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/thumbs_112\/img3480397518772160952.png",
+                            "myAppLogoIconSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/myAppIcon\/img2642147177080482350.png"},
+                            "imageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/thumbs_64\/img2642147177080482350.png"},
+                            "profileImageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/thumbs_112\/img3480397518772160952.png"},
+                            "blurb": "Integrate Gmail with SugarCRM",
+                            "overview": "Collabspot is a sales email platform that integrates SugarCRM with Gmail.",
+                            "rating": 5,
+                            "reviewCount": 1,
+                            "mobileBundleId": null,
+                            "mobileAppStoreId": null
+                        },
+                        "overview": {
+                            "splashTitle": "Gmail, Google Calendar, and Google apps for SugarCRM",
+                            "splashDescription": "Collabspot makes it easy to access your contacts, accounts, opportunities, cases, and even tasks from right inside Gmail so you can stop switching back and forth between SugarCRM and Gmail and start closing more deals.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/overview\/img8221281433734354061.png",
+                            "imageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/overview\/img8221281433734354061.png"},
+                            "demoUrl": null,
+                            "documentationUrl": null,
+                            "downloadDocumentationUrl": null,
+                            "systemRequirements": null,
+                            "downloadFileSize": null,
+                            "benefits": [{
+                                "title": "Sync emails to SugarCRM",
+                                "description": "Automatically sync incoming and outgoing messages to sugarCRM with one click so you never have to copy a message into sugarCRM ever again."
+                            }, {
+                                "title": "Schedule Emails to Send Later",
+                                "description": "Craft the perfect personalized email, or use one of the shared templates you or your team has created using Collabspot\u2019s email template creator, and send them out at the perfect time. So you can create emails on Sunday and have them sent out Monday morning automatically."
+                            }, {
+                                "title": "Never forget to follow up again",
+                                "description": "Losing sales because your reps are forgetting to follow up with leads? Use Collabspot\u2019s email reminders to ensure that you\u2019re following up with the right leads and the right emails at the right time."
+                            }, {
+                                "title": "Sent email and Link Tracking",
+                                "description": "Track any and all emails that you\u2019ve sent and instantly know when a lead has opened your email or clicked a link all within Gmail."
+                            }, {
+                                "title": "Google Calendar and Contact Sync",
+                                "description": "Keep track of all of your events, tasks, and meetings with one calendar with Collabspot\u2019s automatic calendar sync. You can also eliminate the need to check multiple contact listings by automatically syncing your Google contact data with sugarCRM"
+                            }],
+                            "versions": null
+                        },
+                        "support": {"email": null, "phone": null, "knowledgebaseUrl": null, "description": null},
+                        "privacyUrl": "http:\/\/www.collabspot.com\/privacy-policy\/",
+                        "termsUrl": "http:\/\/www.collabspot.com\/terms-of-service\/",
+                        "referUrl": "http:\/\/www.collabspot.com\/sugarcrm7\/",
+                        "hostedLocation": null,
+                        "lastModified": 1484950661000,
+                        "pricing": {
+                            "pricingSummary": null,
+                            "footnotes": null,
+                            "bullets": null,
+                            "editions": [{
+                                "id": 308347,
+                                "uuid": "99bd2b18-96c9-44af-abb3-5454e3b50ebe",
+                                "rank": 1,
+                                "name": "Sugar in Gmail",
+                                "primary": true,
+                                "trial": {"length": 15, "unit": "DAY"},
+                                "expiredTrialGracePeriod": null,
+                                "bundleOnly": false,
+                                "targetAudience": null,
+                                "code": "sugar",
+                                "defaultFreeTrial": true,
+                                "invisible": false,
+                                "leadGen": false,
+                                "lastModified": 1470246951000,
+                                "revenueType": "RECURRING",
+                                "restricted": false,
+                                "freeTrialDuration": 15,
+                                "freeTrialType": "DAY",
+                                "customerContractRestricted": false,
+                                "plans": [{
+                                    "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/90132\/editions\/308347\/paymentPlans\/384423",
+                                    "id": 384423,
+                                    "uuid": "7c289a1c-7822-42e8-a6ff-374419adf5df",
+                                    "frequency": "MONTHLY",
+                                    "contract": null,
+                                    "allowCustomUsage": false,
+                                    "keepBillDateOnUsageChange": false,
+                                    "separatePrepaid": false,
+                                    "isPrimaryPrice": false,
+                                    "costs": [{
+                                        "id": 700044,
+                                        "unit": "USER_LICENSE",
+                                        "unitDependency": null,
+                                        "minUnits": 0,
+                                        "maxUnits": null,
+                                        "meteredUsage": false,
+                                        "increment": 1,
+                                        "pricePerIncrement": false,
+                                        "blockContractDecrease": false,
+                                        "blockContractIncrease": false,
+                                        "blockOriginalContractDecrease": false,
+                                        "amount": {"USD": 9},
+                                        "pricingStrategy": "UNIT"
+                                    }],
+                                    "discount": null,
+                                    "primaryPrice": false
+                                }],
+                                "bullets": null,
+                                "items": [{"unit": "USER", "amount": 1, "unlimited": false}],
+                                "customizations": null
+                            }]
+                        },
+                        "publishedOn": 1457553511000,
+                        "rating": 5,
+                        "numRatings": 1,
+                        "buyable": true,
+                        "free": false,
+                        "freeTrialOrEditionPresent": true,
+                        "referable": true,
+                        "hidePricings": true,
+                        "collectLeads": true,
+                        "collectLeadsWithPurchaseEnabled": false,
+                        "newSubscriptionEnabled": true,
+                        "changeSubscriptionAllowed": true,
+                        "displayQuestions": true,
+                        "displayReviews": true,
+                        "oneClickPurchasable": false,
+                        "autoUpgradeToPaid": false,
+                        "downloadFileSize": null,
+                        "startingPrice": {
+                            "unit": "END_USER",
+                            "billingFrequency": "MONTHLY",
+                            "amount": {"USD": 9},
+                            "discount": null
+                        },
+                        "highestPercentageDiscount": null,
+                        "highestFixedDiscount": null,
+                        "bundledPlanIds": null,
+                        "customIntegration": null,
+                        "usageType": "SINGLE_USER",
+                        "linkedImportableApplicationUuid": null,
+                        "liveChatEnabled": false,
+                        "liveChatAvailable": false,
+                        "showThirdPartyLegalDisclosure": false,
+                        "showSelfServiceRestriction": false,
+                        "integrationConfiguration": {"productSettings": null},
+                        "addon": false,
+                        "resources": [{
+                            "id": null,
+                            "resourceType": "VIDEO",
+                            "name": "Sugar in Gmail",
+                            "link": "https:\/\/www.youtube.com\/watch?v=8nHKRs2kmds",
+                            "scribdKey": null,
+                            "scribdId": null,
+                            "description": null,
+                            "resellerAccess": false
+                        }],
+                        "screenshots": [{
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/screenshot\/img6902717095899379298.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/screenshot\/img6902717095899379298.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/screenshot\/img6902717095899379298.png"
+                            }
+                        }],
+                        "addonOfferings": null,
+                        "featuredCustomers": null,
+                        "featuredMedia": null,
+                        "features": [{
+                            "id": 1734556,
+                            "header": "Sync emails to SugarCRM",
+                            "description": "Automatically sync incoming and outgoing messages to sugarCRM with one click so you never have to copy a message into sugarCRM ever again.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/feature\/img6757516337747491635.png",
+                            "hideOnOverview": false,
+                            "position": 1,
+                            "characteristics": [{
+                                "id": null,
+                                "title": null,
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": null
+                            }]
+                        }, {
+                            "id": 1734560,
+                            "header": "Track all emails",
+                            "description": "Get notified instantly when your prospect has interacted with your email. Plan your next action and contact them with the right message at the right time.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/feature\/img2466140361770110229.png",
+                            "hideOnOverview": false,
+                            "position": 2,
+                            "characteristics": [{
+                                "id": null,
+                                "title": null,
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": null
+                            }]
+                        }, {
+                            "id": 1734564,
+                            "header": "Never forget to follow up again",
+                            "description": "Receive email reminders to reply or follow-up on your emails. Never forget to follow-up with any contact again.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/feature\/img5227822711055384714.png",
+                            "hideOnOverview": false,
+                            "position": 3,
+                            "characteristics": [{
+                                "id": null,
+                                "title": null,
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": null
+                            }]
+                        }, {
+                            "id": 1734568,
+                            "header": "Sugar 7 in Gmail Sidebar",
+                            "description": "Access contact data and details from Sugar 7 from your Gmail Sidebar.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/90132\/feature\/img3271638077316405699.png",
+                            "hideOnOverview": false,
+                            "position": 4,
+                            "characteristics": [{
+                                "id": null,
+                                "title": null,
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": null
+                            }]
+                        }],
+                        "tags": [{
+                            "type": "CATEGORY",
+                            "id": 3042,
+                            "name": "Productivity",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "SUB_CATEGORY",
+                                "id": 3278,
+                                "name": "Enterprise Communication \u2013 Unified Communication (Web Conferencing, Voice, Messaging, Mail, Calendar)",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 307,
+                            "name": "SugarCon",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 783,
+                                "name": "Sponsors",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "CATEGORY",
+                            "id": 3034,
+                            "name": "Application Integration \u0026 Management",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "SUB_CATEGORY",
+                                "id": 3266,
+                                "name": "Integration Platform",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 283,
+                            "name": "Version Compatibility",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 719,
+                                "name": "Sugar 6",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }, {
+                                "type": "ATTRIBUTE",
+                                "id": 723,
+                                "name": "Sugar 7",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 959,
+                            "name": "Export Classification Options (Product can only have one classification)",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 2815,
+                                "name": "Listing Only - no product provided",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": "By submitting my product for publication, I certify that the classification option I\u0027ve selected accurately reflects how my product is classified under the U.S. Export Administration Regulations.  For information, please contact isv@sugarcrm.com"
+                        }, {
+                            "type": "CATEGORY",
+                            "id": 3026,
+                            "name": "Sales",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "SUB_CATEGORY",
+                                "id": 3162,
+                                "name": "Sales Development",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }],
+                        "supportedLanguages": ["en", "fr"],
+                        "mosiConnectorType": "CREST",
+                        "platforms": null,
+                        "links": null,
+                        "_embedded": {"associatedAddons": null},
+                        "id": 90132
+                    }
+                }
+            },
+            {
+                "id": 44,
+                "name": "Customer Journey Plug-In",
+                "excerpt": "Powered by AddOptify",
+                "description": "Help your clients unite best-practice CRM with their customers\u2019 decision journeys. A new enterprise solution infuses the customer\u2019s entire decision process with internal efficiency to streamline processes, boost sales performance and strengthen customer engagement across all departments.",
+                "slug": "customer-journey-plug-in",
+                "type": "Plugin",
+                "status": "published",
+                "published_at": "2017-04-12 09:17:30",
+                "menu_order": 0,
+                "search_boost": 50,
+                "product_link": "",
+                "action_link": null,
+                "price_type": null,
+                "price": null,
+                "legal_privacy_link": "http:\/\/www.sugarcrm.com\/legal\/privacy-policy",
+                "legal_privacy_tc": "https:\/\/www.sugarcrm.com\/legal\/eula-customer-journey-plug-in",
+                "img_listing_logo": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/6\/44\/customer-journey-plug-in-img8282004062589426040.png",
+                "img_listing_profile": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/6\/44\/customer-journey-plug-in-img5705911867500248465.png",
+                "img_listing_overview": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/6\/44\/customer-journey-plug-in-img4522897047626471035.png",
+                "screenshots": null,
+                "video_link": null,
+                "support_phone": null,
+                "support_email": "info@addoptify.com",
+                "support_kb": "http:\/\/support.sugarcrm.com\/Documentation\/Installable_Connectors\/Customer_Journey_Plug-in\/",
+                "support_detail": "Support for the Customer Journey plug-in is provided by your partner or the SugarCRM Support team. In case you or your partner is unable to resolve the issue, please have your support-authorized contact or your partner contact create a case with the Sugar Support team.",
+                "etc_class": "5D992",
+                "parent_id": null,
+                "owner_id": null,
+                "account_id": 6,
+                "created_at": "2017-04-11 21:38:48",
+                "updated_at": "2017-04-28 18:22:25",
+                "deleted_at": null,
+                "route": "http:\/\/sugarexchange.sugarcrm.com\/apps\/44\/customer-journey-plug-in",
+                "meta_data": {
+                    "payload": {
+                        "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/125860",
+                        "uuid": "eb72d491-57de-4f7b-b644-61c0f2bcf24d",
+                        "publishedApp": null,
+                        "workingApp": {
+                            "id": "124419",
+                            "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/124419"
+                        },
+                        "name": "Customer Journey Plug-In",
+                        "type": "DOWNLOAD_WITH_FULL_PROFILE",
+                        "provider": {
+                            "uuid": "cc3c2ced-cf6f-4ac0-a45f-d0e92ef7378a",
+                            "name": "AddOptify ApS",
+                            "url": null
+                        },
+                        "listing": {
+                            "myAppLogoIconUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/myAppIcon\/img8282004062589426040.png",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/thumbs_64\/img8282004062589426040.png",
+                            "profileImageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/thumbs_112\/img5705911867500248465.png",
+                            "myAppLogoIconSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/myAppIcon\/img8282004062589426040.png"},
+                            "imageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/thumbs_64\/img8282004062589426040.png"},
+                            "profileImageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/thumbs_112\/img5705911867500248465.png"},
+                            "blurb": "Powered by AddOptify",
+                            "overview": "Help your clients unite best-practice CRM with their customers\u2019 decision journeys. A new enterprise solution infuses the customer\u2019s entire decision process with internal efficiency to streamline processes, boost sales performance and strengthen customer engagement across all departments.",
+                            "rating": null,
+                            "reviewCount": 0,
+                            "mobileBundleId": null,
+                            "mobileAppStoreId": null
+                        },
+                        "overview": {
+                            "splashTitle": "Unify CRM Best Practices with the Customer Experience",
+                            "splashDescription": "Now there\u2019s an enterprise solution that can help you manage and optimize every customer interaction, through every step of your customer\u2019s journey. With the Sugar Customer Journey Plug-In, you can improve customer experience by streamlining internal processes, improving visibility of the customer journey, and improving customer engagement across all departments.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/overview\/img4522897047626471035.png",
+                            "imageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/overview\/img4522897047626471035.png"},
+                            "demoUrl": null,
+                            "documentationUrl": null,
+                            "downloadDocumentationUrl": null,
+                            "systemRequirements": null,
+                            "downloadFileSize": 644685,
+                            "benefits": null,
+                            "versions": {"common": ["4.4.0"]}
+                        },
+                        "support": {
+                            "email": "info@addoptify.com",
+                            "phone": null,
+                            "knowledgebaseUrl": "http:\/\/support.sugarcrm.com\/Documentation\/Installable_Connectors\/Customer_Journey_Plug-in\/",
+                            "description": "Support for the Customer Journey plug-in is provided by your partner or the SugarCRM Support team. In case you or your partner is unable to resolve the issue, please have your support-authorized contact or your partner contact create a case with the Sugar Support team."
+                        },
+                        "privacyUrl": "http:\/\/www.sugarcrm.com\/legal\/privacy-policy",
+                        "termsUrl": "https:\/\/www.sugarcrm.com\/legal\/eula-customer-journey-plug-in",
+                        "referUrl": null,
+                        "hostedLocation": null,
+                        "lastModified": 1491900316000,
+                        "pricing": {
+                            "pricingSummary": null,
+                            "footnotes": null,
+                            "bullets": null,
+                            "editions": [{
+                                "id": 296252,
+                                "uuid": "7ccc83f6-df3b-47d4-a55d-9849f0280f51",
+                                "rank": 1,
+                                "name": "Free",
+                                "primary": true,
+                                "trial": {"length": 0, "unit": "DAY"},
+                                "expiredTrialGracePeriod": null,
+                                "bundleOnly": false,
+                                "targetAudience": null,
+                                "code": "Free",
+                                "defaultFreeTrial": false,
+                                "invisible": false,
+                                "leadGen": false,
+                                "lastModified": 1468026071000,
+                                "revenueType": "FREE",
+                                "restricted": false,
+                                "freeTrialDuration": 0,
+                                "freeTrialType": "DAY",
+                                "customerContractRestricted": false,
+                                "plans": [{
+                                    "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/125860\/editions\/296252\/paymentPlans\/367876",
+                                    "id": 367876,
+                                    "uuid": "09b51435-0e87-4e8e-99a6-40873bf4aa8d",
+                                    "frequency": "MONTHLY",
+                                    "contract": null,
+                                    "allowCustomUsage": false,
+                                    "keepBillDateOnUsageChange": false,
+                                    "separatePrepaid": false,
+                                    "isPrimaryPrice": false,
+                                    "costs": null,
+                                    "discount": null,
+                                    "primaryPrice": false
+                                }],
+                                "bullets": null,
+                                "items": [{"unit": "USER", "amount": 1, "unlimited": false}],
+                                "customizations": null
+                            }]
+                        },
+                        "publishedOn": 1468026071000,
+                        "rating": null,
+                        "numRatings": null,
+                        "buyable": true,
+                        "free": true,
+                        "freeTrialOrEditionPresent": true,
+                        "referable": false,
+                        "hidePricings": true,
+                        "collectLeads": true,
+                        "collectLeadsWithPurchaseEnabled": true,
+                        "newSubscriptionEnabled": true,
+                        "changeSubscriptionAllowed": true,
+                        "displayQuestions": true,
+                        "displayReviews": true,
+                        "oneClickPurchasable": true,
+                        "autoUpgradeToPaid": false,
+                        "downloadFileSize": 644685,
+                        "startingPrice": null,
+                        "highestPercentageDiscount": null,
+                        "highestFixedDiscount": null,
+                        "bundledPlanIds": null,
+                        "customIntegration": null,
+                        "usageType": "SINGLE_USER",
+                        "linkedImportableApplicationUuid": null,
+                        "liveChatEnabled": false,
+                        "liveChatAvailable": false,
+                        "showThirdPartyLegalDisclosure": false,
+                        "showSelfServiceRestriction": false,
+                        "integrationConfiguration": {"productSettings": null},
+                        "addon": false,
+                        "resources": null,
+                        "screenshots": [{
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/screenshot\/img3694042383293014747.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/screenshot\/img3694042383293014747.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/screenshot\/img3694042383293014747.png"
+                            }
+                        }],
+                        "addonOfferings": null,
+                        "featuredCustomers": null,
+                        "featuredMedia": null,
+                        "features": [{
+                            "id": 1843310,
+                            "header": "Deliver Personalized and Seamless Customer Experience",
+                            "description": "With the Customer Journey plug-in, you can show your customer relationship professionals where your customers are at every stage of their journey. Help your employees align their internal activities with the individual customer\u2019s decision stage to deliver a personalized, seamless customer experience.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/feature\/img2772759466664280854.png",
+                            "hideOnOverview": false,
+                            "position": 1
+                        }, {
+                            "id": 1843314,
+                            "header": "Leverage Best Practices to Optimize Customer Interaction",
+                            "description": "With the Customer Journey plug-in, you can better align your team\u2019s activities with the customer\u0027s point of view. Reorient your customer-facing activities around a deeper understanding of your customer\u2019s decision processes, leveraging best practices to deliver the most optimal user experience. Create customer journey maps that incorporate the best ways to engage with different customers. Then operationalize these maps in Sugar to make sure everyone clearly understands what needs to happen at each step along the way to advance the relationship.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/feature\/img2144578108586665204.png",
+                            "hideOnOverview": false,
+                            "position": 3
+                        }, {
+                            "id": 1843318,
+                            "header": "Improve Internal Transparency That Increases Business Efficiency",
+                            "description": "With SugarCRM\u2019s Customer Journey plug-in, you can more effectively focus employee actions on the needs of the customer \u2013 at every step of their journey. By increasing awareness of the customer journey through every touch point, you can help prospects and customers advance more quickly to the next decision stage. The result: a streamlined process that synchronizes all of your customer-facing-activities to increase business efficiency.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/125860\/feature\/img7376862783260035191.png",
+                            "hideOnOverview": false,
+                            "position": 2
+                        }],
+                        "tags": [{
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 307,
+                            "name": "SugarCon",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 783,
+                                "name": "Sponsors",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "CATEGORY",
+                            "id": 3042,
+                            "name": "Productivity",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": null,
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 283,
+                            "name": "Version Compatibility",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 723,
+                                "name": "Sugar 7",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 959,
+                            "name": "Export Classification Options (Product can only have one classification)",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 2811,
+                                "name": "5D992 (mass market encryption product)",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": "By submitting my product for publication, I certify that the classification option I\u0027ve selected accurately reflects how my product is classified under the U.S. Export Administration Regulations.  For information, please contact isv@sugarcrm.com"
+                        }],
+                        "supportedLanguages": ["en"],
+                        "mosiConnectorType": "CREST",
+                        "platforms": null,
+                        "links": null,
+                        "_embedded": {"associatedAddons": null},
+                        "id": 125860
+                    }
+                }
+            },
+            {
+                "id": 151,
+                "name": "Relationship Analytics for Sugar",
+                "excerpt": "Putting the \u0027R\u0027 into CRM",
+                "description": "Leveraging the intelligence which typically lies hidden in communication systems to complete the data in Sugar. Improves customer retention, increases sales and enables a coordinated customer conversation to occur - increasing customer satisfaction. Sales team can better manage relationships and increase their productivity \u0026amp; results.",
+                "slug": "relationship-analytics-for-sugar",
+                "type": "Integration",
+                "status": "published",
+                "published_at": "2017-04-12 09:17:30",
+                "menu_order": 0,
+                "search_boost": 90,
+                "product_link": "",
+                "action_link": "https:\/\/www.trustsphere.com\/how-it-works\/sugarcrm\/",
+                "price_type": null,
+                "price": null,
+                "legal_privacy_link": "https:\/\/www.trustsphere.com\/privacy\/",
+                "legal_privacy_tc": "https:\/\/www.trustsphere.com\/legal\/",
+                "img_listing_logo": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/92\/151\/relationship-analytics-for-sugar-img4493572466477833322.png",
+                "img_listing_profile": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/92\/151\/relationship-analytics-for-sugar-img6222799166090359400.png",
+                "img_listing_overview": "https:\/\/exchnagemedia-dev.s3-us-west-2.amazonaws.com\/images\/92\/151\/relationship-analytics-for-sugar-img7683002252052088973.png",
+                "screenshots": null,
+                "video_link": null,
+                "support_phone": null,
+                "support_email": "support@trustsphere.com",
+                "support_kb": null,
+                "support_detail": null,
+                "etc_class": "NA",
+                "parent_id": null,
+                "owner_id": null,
+                "account_id": 92,
+                "created_at": "2017-04-11 21:51:28",
+                "updated_at": "2017-04-11 21:51:41",
+                "deleted_at": null,
+                "route": "http:\/\/sugarexchange.sugarcrm.com\/apps\/151\/relationship-analytics-for-sugar",
+                "meta_data": {
+                    "payload": {
+                        "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/21544",
+                        "uuid": "b1c34ea3-9b41-43a2-8999-2429dc8a634b",
+                        "publishedApp": null,
+                        "workingApp": {
+                            "id": "21183",
+                            "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/21183"
+                        },
+                        "name": "Relationship Analytics for Sugar",
+                        "type": "WEB_APP",
+                        "provider": {
+                            "uuid": "5e70d53f-e8b9-49e2-add3-40238ba2b7e4",
+                            "name": "TrustSphere",
+                            "url": "trustsphere.com"
+                        },
+                        "listing": {
+                            "myAppLogoIconUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/myAppIcon\/img4493572466477833322.png",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/thumbs_64\/img4493572466477833322.png",
+                            "profileImageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/thumbs_112\/img6222799166090359400.png",
+                            "myAppLogoIconSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/myAppIcon\/img4493572466477833322.png"},
+                            "imageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/thumbs_64\/img4493572466477833322.png"},
+                            "profileImageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/thumbs_112\/img6222799166090359400.png"},
+                            "blurb": "Putting the \u0027R\u0027 into CRM",
+                            "overview": "Leveraging the intelligence which typically lies hidden in communication systems to complete the data in Sugar. Improves customer retention, increases sales and enables a coordinated customer conversation to occur - increasing customer satisfaction. Sales team can better manage relationships and increase their productivity \u0026amp; results.",
+                            "rating": 5,
+                            "reviewCount": 3,
+                            "mobileBundleId": null,
+                            "mobileAppStoreId": null
+                        },
+                        "overview": {
+                            "splashTitle": "Get the customer 360 view to build better customer relationships",
+                            "splashDescription": "Gain insights into communication activity and customer interaction. Identify hidden contacts, prospects and partners. Improve forecasting accuracy and account servicing by gaining visibility of customer interactions from within the whole company. TrustVault (TrustSphere\u2019s Relationship Analytics Platform) combines with Sugar to offer previously unavailable levels of real time insight into the true communications activity between your organization and your customers and prospects. TrustVault analyzes email interaction meta-data and then automatically integrates the resulting analytics with Sugar. This not only gives a more timely and accurate picture of sale activity, but also allows for broader visibility of overall account connections.\nThe Relationship Analytics for Sugar application is available from SugarCRM and SugarCRM Channel Partners. Please contact your SugarCRM representative or visit the SugarCRM contact page to obtain further details over here - http:\/\/www.sugarcrm.com\/contact",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/overview\/img7683002252052088973.png",
+                            "imageSrcset": {"default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/overview\/img7683002252052088973.png"},
+                            "demoUrl": null,
+                            "documentationUrl": null,
+                            "downloadDocumentationUrl": null,
+                            "systemRequirements": null,
+                            "downloadFileSize": null,
+                            "benefits": [{
+                                "title": "REPLACE COLD CALLS WITH WARM INTRODUCTIONS",
+                                "description": "By accurately identifying the people within your organization who already have a strong relationship with an external party, teams can work together in a more coordinated and effective way. Cold calling becomes a thing of the past as teams systematically capitalize upon company-wide relationships. While social networking sites are great at telling you who might be \u201cconnected\u201d, they are less effective at telling you who has an actual \u201crelationship\u201d. LinksWithin replaces the small chance of stumbling upon the right person in your organization who can make the introduction with empirical data that helps the seller quickly navigate the best path to the contact. All this happens instantly via a simple search."
+                            }, {
+                                "title": "NEVER BE BLINDSIDED AGAIN",
+                                "description": "When was your customer last contacted and by whom? What was the context of this interaction? TrustSphere plugs the gap so that Relationship Managers are never blindsided, ensuring a coordinated corporate customer dialogue. View the last time someone emailed your prospect, customer or partner. Connect overlay sales teams in an intelligent way, to give account owners visibility over all interactions with clients. The best part \u2013 the information you see is automatically populated  from Corporate communication logs. So you are not relying on patchy and inconsistent CRM data."
+                            }, {
+                                "title": "PREVENTING REVENUE LEAKAGE \u0026 IMPROVING RENEWAL RATES",
+                                "description": "Renewals are often neglected because the sales teams is busy finding new clients and forgets about existing customers until it\u2019s too late. Studies show that one of the primary causes of customer defection is being neglected by a vendor. TrustSphere provides clear visibility over the status of each account, answering questions like; Are we connecting with the customer? Are they responsive to us? Do we need to try something new to engage a prospect? Relationship Analytics lets you identify and pre-empt potential problems, so that you deal with them before it\u2019s too late!"
+                            }, {
+                                "title": "ACCELERATE ONBOARDING BY IMPROVING SALES HANDOVERS",
+                                "description": "The typical sales organization loses around 25% of its team every year. Staff turnover can cause disruption to customers and impact client retention. Providing relationship data from across the organization to a new account executive is priceless. It allows the new sales employee to gain an awareness of all the key decision-makers inside your company, and tells them who is interacting with customers and prospects. \n\nSales Manager are also able to transition a departing Sales Rep\u2019s key relationships to their replacement, thus ensuring a smoother transition and decreased disruption for the customer. This ability to pass on relationship information typically improves the time-to-productivity of new reps from three months to just one month for our customers!"
+                            }, {
+                                "title": "ENABLING REAL-TIME INTERVENTION FOR ACCOUNTS \u201cAT RISK\u201d",
+                                "description": "Forecasting is part art, part science! The opportunity-cost of delaying a lead is high, and you don\u2019t want a potential deal to slip into the next quarter. Understanding the communication flow between your company and the customer or prospect, is crucial to knowing whether your deal is \u2018at risk\u2019. When your entire organization has a healthy cadence of back and forth communication, a deal is usually healthy. When that communication is one way, such as a set of emails going to the customer and none coming back, it typically means something may be stalling and action is required before it\u2019s too late."
+                            }],
+                            "versions": null
+                        },
+                        "support": {
+                            "email": "support@trustsphere.com",
+                            "phone": null,
+                            "knowledgebaseUrl": null,
+                            "description": null
+                        },
+                        "privacyUrl": "https:\/\/www.trustsphere.com\/privacy\/",
+                        "termsUrl": "https:\/\/www.trustsphere.com\/legal\/",
+                        "referUrl": "https:\/\/www.trustsphere.com\/how-it-works\/sugarcrm\/",
+                        "hostedLocation": null,
+                        "lastModified": 1491795339000,
+                        "pricing": {
+                            "pricingSummary": null,
+                            "footnotes": null,
+                            "bullets": null,
+                            "editions": [{
+                                "id": 32720,
+                                "uuid": "ba13ad71-2b83-4b12-b15b-87e8f6339ab7",
+                                "rank": 1,
+                                "name": "Free Edition",
+                                "primary": true,
+                                "trial": {"length": 0, "unit": "DAY"},
+                                "expiredTrialGracePeriod": null,
+                                "bundleOnly": false,
+                                "targetAudience": null,
+                                "code": "FREE",
+                                "defaultFreeTrial": false,
+                                "invisible": false,
+                                "leadGen": false,
+                                "lastModified": 1429187064000,
+                                "revenueType": "FREE",
+                                "restricted": false,
+                                "freeTrialDuration": 0,
+                                "freeTrialType": "DAY",
+                                "customerContractRestricted": false,
+                                "plans": [{
+                                    "href": "https:\/\/sugarexchange.sugarcrm.com\/api\/marketplace\/v1\/products\/21544\/editions\/32720\/paymentPlans\/36556",
+                                    "id": 36556,
+                                    "uuid": "c0334268-d343-4102-b465-5dd14c9accde",
+                                    "frequency": "MONTHLY",
+                                    "contract": null,
+                                    "allowCustomUsage": false,
+                                    "keepBillDateOnUsageChange": false,
+                                    "separatePrepaid": false,
+                                    "isPrimaryPrice": false,
+                                    "costs": null,
+                                    "discount": null,
+                                    "primaryPrice": false
+                                }],
+                                "bullets": null,
+                                "items": [{"unit": "USER", "amount": 1, "unlimited": false}],
+                                "customizations": null
+                            }]
+                        },
+                        "publishedOn": 1429187064000,
+                        "rating": 5,
+                        "numRatings": 3,
+                        "buyable": true,
+                        "free": true,
+                        "freeTrialOrEditionPresent": true,
+                        "referable": true,
+                        "hidePricings": true,
+                        "collectLeads": true,
+                        "collectLeadsWithPurchaseEnabled": false,
+                        "newSubscriptionEnabled": true,
+                        "changeSubscriptionAllowed": true,
+                        "displayQuestions": true,
+                        "displayReviews": true,
+                        "oneClickPurchasable": false,
+                        "autoUpgradeToPaid": false,
+                        "downloadFileSize": null,
+                        "startingPrice": null,
+                        "highestPercentageDiscount": null,
+                        "highestFixedDiscount": null,
+                        "bundledPlanIds": null,
+                        "customIntegration": null,
+                        "usageType": "SINGLE_USER",
+                        "linkedImportableApplicationUuid": null,
+                        "liveChatEnabled": false,
+                        "liveChatAvailable": false,
+                        "showThirdPartyLegalDisclosure": false,
+                        "showSelfServiceRestriction": false,
+                        "integrationConfiguration": {"productSettings": null},
+                        "addon": false,
+                        "resources": [{
+                            "id": null,
+                            "resourceType": "PDF_UPLOAD",
+                            "name": "RA for Sugar - Datasheet",
+                            "link": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/documentation\/472196_en.pdf",
+                            "scribdKey": null,
+                            "scribdId": null,
+                            "description": null,
+                            "resellerAccess": false
+                        }, {
+                            "id": null,
+                            "resourceType": "PDF_UPLOAD",
+                            "name": "Privacy Position Paper - TrustSphere Sales Analytics",
+                            "link": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/documentation\/486487_en.pdf",
+                            "scribdKey": null,
+                            "scribdId": null,
+                            "description": null,
+                            "resellerAccess": false
+                        }, {
+                            "id": null,
+                            "resourceType": "PDF_UPLOAD",
+                            "name": "TrustSphere Information Security Practices",
+                            "link": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/documentation\/486491_en.pdf",
+                            "scribdKey": null,
+                            "scribdId": null,
+                            "description": null,
+                            "resellerAccess": false
+                        }, {
+                            "id": null,
+                            "resourceType": "PDF_UPLOAD",
+                            "name": "RA for Sugar User Guide",
+                            "link": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/documentation\/507603_en.pdf",
+                            "scribdKey": null,
+                            "scribdId": null,
+                            "description": null,
+                            "resellerAccess": false
+                        }, {
+                            "id": null,
+                            "resourceType": "PDF_UPLOAD",
+                            "name": "RA for Sugar Installation",
+                            "link": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/documentation\/507607_en.pdf",
+                            "scribdKey": null,
+                            "scribdId": null,
+                            "description": null,
+                            "resellerAccess": false
+                        }, {
+                            "id": null,
+                            "resourceType": "PDF_UPLOAD",
+                            "name": "Release Notes",
+                            "link": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/documentation\/507611_en.pdf",
+                            "scribdKey": null,
+                            "scribdId": null,
+                            "description": null,
+                            "resellerAccess": false
+                        }],
+                        "screenshots": [{
+                            "name": "LinksWithin \u2013 Find the best path to warm introductions",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img3874179217033977919.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img3874179217033977919.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img3874179217033977919.png"
+                            }
+                        }, {
+                            "name": "Populate the account record with additional stakeholders",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img4710507486256026203.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img4710507486256026203.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img4710507486256026203.png"
+                            }
+                        }, {
+                            "name": "Understand who else from the organization is engaging the account",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img151227627412311632.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img151227627412311632.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img151227627412311632.png"
+                            }
+                        }, {
+                            "name": "Transition relationships and onboard new staff seamlessly",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img7629035145740986691.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img7629035145740986691.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img7629035145740986691.png"
+                            }
+                        }, {
+                            "name": "Determine the LinksWithin for an account",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img424850941145542309.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img424850941145542309.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img424850941145542309.png"
+                            }
+                        }, {
+                            "name": "LinksWithin recommends the colleagues best suited to give you context",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img2298403911007032805.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img2298403911007032805.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img2298403911007032805.png"
+                            }
+                        }, {
+                            "name": "Switch to a tabular view of LinksWithin easily",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img96936101002884226.png",
+                            "imageUrlSrcset": {
+                                "default": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img96936101002884226.png",
+                                "1x": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/screenshot\/img96936101002884226.png"
+                            }
+                        }],
+                        "addonOfferings": null,
+                        "featuredCustomers": null,
+                        "featuredMedia": null,
+                        "features": [{
+                            "id": 1874103,
+                            "header": "LINKSWITHIN",
+                            "description": "When an employee wishes to find the right connection point, LinksWithin performs a real-time search of your organization\u2019s social network, which is created and maintained in TrustVault. This social network is created by analyzing just the communication logs of an organization \u2013 interactions between internal staff and with external people - thus building a \u2018social graph\u2019. The strength of every relationship is also measured and updated with every new interaction, enabling important decisions to be made using truly objective data. Message content is never analyzed. LinksWithin displays the ten strongest relationships that exist between the target and your internal colleagues. It reveals the best path for each individual to their prospects and the best chance of a successful connection.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/feature\/img7354332452758168205.png",
+                            "slogan": "REPLACE COLD CALLS WITH WARM INTRODUCTIONS",
+                            "hideOnOverview": true,
+                            "position": 1,
+                            "characteristics": [{
+                                "id": null,
+                                "title": "LEVERAGES THE HIDDEN NETWORK",
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "The hidden network lies in an organization\u2019s communication systems. LinksWithin leverages that network for the right purpose, and with only the necessary information; to help colleagues collaborate better.",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "PROTECTS THE INDIVIDUAL NETWORK",
+                                "position": 1,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "LinksWithin only tells you which of your colleagues have a relationship at a particular organization. It does not reveal the exact one-to-one relationships. Unless you have the email address or phone number of the target individual.",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "CONNECTIONS VS. RELATIONSHIPS",
+                                "position": 2,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "LinksWithin helps distinguish between mere connections and actual relationships. People have many connections on LinkedIn and similar social networks \u2013 but there is no way to determine if they are real relationships. LinksWithin provides that extra analysis using TrustSphere\u2019s Relationship Analytics Platform \u2013 TrustVault.",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "AVAILABLE ON DASHBOARD, ACCOUNTS, CONTACTS, OPPORTUNITIES \u0026 LEADS",
+                                "position": 3,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "On the Sugar dashboard, this feature is available in the \u2018Search for LinksWithin\u2019 dashlet \u2013 as shown in the screenshot above. The user has to search for domain or email address here to see the results. The feature is also available as the \u2018LinksWithin\u2019 dashlet for Accounts, Contacts, Opportunities and Lead records. Here, the list of colleagues connected to that particular account, contact, opportunity or lead are already available to choose from a dropdown menu.",
+                                    "displayCheck": true
+                                }]
+                            }]
+                        }, {
+                            "id": 1874107,
+                            "header": "CUSTOMER INTERACTION 360",
+                            "description": "Too often, customer service reps and account managers do not have the latest information or context on what has been going on. Resulting in unproductive meetings, lost opportunities, and low renewal rates. With the TrustSphere Latest Messages dashlet, always stay up-to-date on what the latest interactions have been.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/feature\/img6106072292479724945.png",
+                            "slogan": "UNDERSTAND WHO ELSE FROM THE ORGANIZATION IS ENGAGING THE ACCOUNT",
+                            "hideOnOverview": true,
+                            "position": 3,
+                            "characteristics": [{
+                                "id": null,
+                                "title": "REAL-TIME COMMUNICATION DATA",
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "The communication information shown is generated directly from communication servers \u2013 ensuring clean, real-time data.",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "PROTECTS INDIVIDUAL PRIVACY",
+                                "position": 1,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "By only showing the activity and not the contents of the conversation, it protects individual privacy. The only details shown are Sender, Recipient, Date and Time.",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "AVAILABLE FOR CONTACTS, LEADS, ACCOUNTS, OPPORTUNITIES",
+                                "position": 2,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "Configuration options - Number of additional rows to display (3 to 30) - Auto refresh period (1 to 30 minutes and off) - History length to display messages (last 7 to last 120 days)",
+                                    "displayCheck": true
+                                }]
+                            }]
+                        }, {
+                            "id": 1874111,
+                            "header": "TRANSITION REPORT",
+                            "description": "One problem that constantly hinders the building of exceptional customer relationships is staff turnover. When your own colleagues and employees leave your organization, customer relationships need special care and attention. And new staff needs to be rapidly on boarded to get productive faster. With the TrustSphere Handover Report, we can get a list of relationships that a leaving or transitioning team member has with customers; regardless of whether this relationship existed in Sugar or not. The algorithms do the difficult work for you by stacking up the relationships based on relationships strengths and recency of communication.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/feature\/img8345292444505060065.png",
+                            "slogan": "HANDOVERS MADE EASY \u0026 DATA-DRIVEN",
+                            "hideOnOverview": true,
+                            "position": 4,
+                            "characteristics": [{
+                                "id": null,
+                                "title": "BETTER TIME-TO-PRODUCTIVITY",
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "New customer facing staff can get productive much faster when they have a list of relationships and context around them to start building better relationships. TrustSphere\u0027s customers have seen time-to-productivity go from three months to under one month for new staff!",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "ENSURING SEAMLESS CUSTOMER EXPERIENCE",
+                                "position": 1,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "As customer-facing staff leave, customers need to be transitioned seamlessly to their new account managers or reps. This report helps in making that process data-driven and seamless.",
+                                    "displayCheck": true
+                                }]
+                            }]
+                        }, {
+                            "id": 1874115,
+                            "header": "MISSING CONTACTS",
+                            "description": "There is a lot of missing data \u2013 especially relationship data that undermines the effectiveness of CRMs. A lot of this data has to be inputted manually by customer facing reps. This dashlet shows all the relationships that exist with an account but have not been entered into Sugar.",
+                            "imageUrl": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/app_resources\/21544\/feature\/img4747437072421157483.png",
+                            "slogan": "POPULATE THE ACCOUNT RECORD WITH ADDITIONAL STAKEHOLDERS",
+                            "hideOnOverview": true,
+                            "position": 2,
+                            "characteristics": [{
+                                "id": null,
+                                "title": "REDUCE MANUAL DATA ENTRY",
+                                "position": 0,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "As new relationships get formed within an account \u2013 these automatically show up in this dashlet; without requiring any manual action by staff.",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "BETTER DATA QUALITY",
+                                "position": 1,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "By automatically capturing all the relationships with any client or prospect from right across the organization, we can achieve better data quality and visibility over true customer engagement.",
+                                    "displayCheck": true
+                                }]
+                            }, {
+                                "id": null,
+                                "title": "ACCOUNT LEVEL ACTIVITY",
+                                "position": 2,
+                                "abovePicture": false,
+                                "highlights": [{
+                                    "highlight": "This dashlet is available under Accounts. Shows detail of communication with the account, not associated with an identified contact configuration option - How many of the strongest relationships to display information (1 to 30) - History to consider (days) when searching for activity (7 to 120)",
+                                    "displayCheck": true
+                                }]
+                            }]
+                        }],
+                        "tags": [{
+                            "type": "CATEGORY",
+                            "id": 3046,
+                            "name": "Data \u0026 Analytics",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "SUB_CATEGORY",
+                                "id": 3298,
+                                "name": "Data Enrichment",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }, {
+                                "type": "SUB_CATEGORY",
+                                "id": 3302,
+                                "name": "Business Intelligence \u0026 Data Analytics",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }, {
+                                "type": "SUB_CATEGORY",
+                                "id": 3388,
+                                "name": "Sales Analytics",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 283,
+                            "name": "Version Compatibility",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 723,
+                                "name": "Sugar 7",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 307,
+                            "name": "SugarCon",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 783,
+                                "name": "Sponsors",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }, {
+                                "type": "ATTRIBUTE",
+                                "id": 2776,
+                                "name": "App Throwdown Winners!",
+                                "badge": "https:\/\/d3bql97l1ytoxn.cloudfront.net\/common_resources\/attributeOptions\/2776\/badge.png?ad4abf8317846b6044193622856ae376",
+                                "showBadge": true,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }, {
+                            "type": "ATTRIBUTE_GROUP",
+                            "id": 959,
+                            "name": "Export Classification Options (Product can only have one classification)",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "ATTRIBUTE",
+                                "id": 2815,
+                                "name": "Listing Only - no product provided",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": "By submitting my product for publication, I certify that the classification option I\u0027ve selected accurately reflects how my product is classified under the U.S. Export Administration Regulations.  For information, please contact isv@sugarcrm.com"
+                        }, {
+                            "type": "CATEGORY",
+                            "id": 3026,
+                            "name": "Sales",
+                            "badge": null,
+                            "showBadge": false,
+                            "showOnNavigation": true,
+                            "children": [{
+                                "type": "SUB_CATEGORY",
+                                "id": 3162,
+                                "name": "Sales Development",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }, {
+                                "type": "SUB_CATEGORY",
+                                "id": 3170,
+                                "name": "Sales Performance Management",
+                                "badge": null,
+                                "showBadge": false,
+                                "showOnNavigation": true,
+                                "children": null,
+                                "description": null
+                            }],
+                            "description": null
+                        }],
+                        "supportedLanguages": ["en"],
+                        "mosiConnectorType": "CREST",
+                        "platforms": null,
+                        "links": null,
+                        "_embedded": {"associatedAddons": null},
+                        "id": 21544
+                    }
+                }
+            }
+        ]
+    }
+}
